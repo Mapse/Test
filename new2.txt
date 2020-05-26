@@ -1,1 +1,2 @@
-show!
+Vdc pvt
+:D
